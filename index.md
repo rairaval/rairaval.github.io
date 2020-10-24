@@ -1,4 +1,4 @@
-## Curriculum de Raúl Vila 
+## Curriculum | Raúl Vila 
 
 Licenciado en economía y con un máster en Big Data & Data Science por la Universidad Complutense de Madrid. Soy de fuerte orientación hacia el resultado, trabaje en diversas áreas como analista de riesgo y desarrollador de negocio. Me considero un profesional comprometido, responsable y creativo, que sabe trabajar en equipo.
 
@@ -45,4 +45,12 @@ Reconocimiento: Mejor trabajo de Fin de Máster (presentación ante 3 Venture Ca
  
 #### Licenciatura en Economía. 
 *Universidad de la República. Montevideo, Uruguay. 2017*
+
+### Información adicional 
+- Curso: Entrepreneurship and Economy. UAB, Barcelona, España (2019).
+- Curso: Development in Vietnam and cooperation in Asia. Foreign Trade University, Hanoi, Vietnam (2019).
+- Curso: The Samurai Game, Coaching (2013). 
+- Pre-Gastrónomo Profesional, Instituto Crandon (2009).
+- Empresario del año. DESEM-Jóvenes emprendedores (2007). 
+
 

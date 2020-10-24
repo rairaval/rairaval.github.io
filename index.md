@@ -10,21 +10,20 @@ Cuento con experiencia en detección de fraude y desarrollo de negocio.
 
 #### Analista de Precios. 2020 
 ##### *Dufry. Madrid, España.*
-```markdown
 - Establecer estrategia de precios y márgenes basados en la política de la empresa. 
 - Diseño y automatización de informes.
 - Participación en la actualización de la política de precios y análisis estratégico de KPI’s.
 - Resolución de incidencias a nivel global. 
-```
+
  
 #### Analista de Riesgo Fiscal y Fraude.  2017  |  2019 
 ##### *Banco de Prevision Social. Montevideo, Uruguay.*
-```markdown
+
 - Análisis del riesgo fiscal de la totalidad de empresas en el Uruguay.
 - Participación en proyecto del ajuste de predicción del riesgo.
 - Asesoría en la toma de decisión de entidades a fiscalizar.
 - Elaboración de informes a la gerencia de empresas a auditar.
-```
+
 
 #### Desarrollador de producto.  2017  |  2018 
 ##### *Gv ccee. Montevideo, Uruguay.*
@@ -36,10 +35,8 @@ Cuento con experiencia en detección de fraude y desarrollo de negocio.
  
 #### Desarrollador de Negocio.  2014  |  2015 
 ##### *Drf-Urupel. Montevideo, Uruguay.*
-```markdown
 - Análisis, detección y valoración de oportunidades de negocio.
 - Desarrollo de cartera de clientes, incluye llamada en frio.
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

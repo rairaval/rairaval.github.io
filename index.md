@@ -2,7 +2,7 @@
 
 Licenciado en economía y con un máster en Big Data & Data Science por la Universidad Complutense de Madrid. Soy de fuerte orientación hacia el resultado, trabaje en diversas áreas como analista de riesgo y desarrollador de negocio. Me considero un profesional comprometido, responsable y creativo, que sabe trabajar en equipo.
 
-Pueden visitar mi perfil de linkedin [Raúl Vila](https://www.linkedin.com/in/raulvila1/) y mi repositori de [GitHub](https://github.com/rairaval) por mas infomación sobre mi carrera profesional.
+Pueden visitar mi perfil de linkedin [Raúl Vila](https://www.linkedin.com/in/raulvila1/) y mi repositorio de [GitHub](https://github.com/rairaval) por mas infomación sobre mi carrera profesional.
 
 ### Experiencia Profesional
 

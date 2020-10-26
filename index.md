@@ -46,7 +46,7 @@ Cuento con experiencia en detección de fraude y desarrollo de negocio.
 *[Universidad de la República](http://fcea.edu.uy/). Montevideo, Uruguay. 2017*
 
 #### Bachiller en Economía.
-*[Instituto Crandon](https://www.crandon.edu.uy/)*Montevideo, Uruguay. 2009*
+*[Instituto Crandon](https://www.crandon.edu.uy/). *Montevideo, Uruguay. 2009*
 
 ### Información adicional 
 - Curso: Entrepreneurship and Economy. UAB, Barcelona, España (2019).

@@ -45,15 +45,15 @@ Cuento con experiencia en detección de fraude y desarrollo de negocio.
 #### Licenciatura en Economía. 
 *[Universidad de la República](http://fcea.edu.uy/). Montevideo, Uruguay. 2017*
 
-
 #### Bachiller en Economía.
-*[Instituto Crandon](https://www.crandon.edu.uy/)*
+*[Instituto Crandon](https://www.crandon.edu.uy/)*Montevideo, Uruguay. 2009*
 
 ### Información adicional 
 - Curso: Entrepreneurship and Economy. UAB, Barcelona, España (2019).
 - Curso: Development in Vietnam and cooperation in Asia. Foreign Trade University, Hanoi, Vietnam (2019).
 - Curso: The Samurai Game, Coaching (2013). 
 - Pre-Gastrónomo Profesional, Instituto Crandon (2009).
-- Empresario del año. DESEM-Jóvenes emprendedores (2007). 
+- Empresario del año. DESEM-Jóvenes emprendedores (2007).
+- Durante el año 2010 y parte del 2011 viví en la provincia de A Coruña, España. Donde trabajé como camarero y teleoperador, asi como tambien realice cursos de carretillero y manipulador de alimentos. 
 
 

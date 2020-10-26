@@ -2,7 +2,7 @@
 
 Licenciado en economía y con un máster en Big Data & Data Science por la Universidad Complutense de Madrid. Soy de fuerte orientación hacia el resultado, trabaje en diversas áreas como analista de riesgo y desarrollador de negocio. Me considero un profesional comprometido, responsable y creativo, que sabe trabajar en equipo.
 
-Pueden visitar mi perfil de linkedin [Raúl Vila](https://www.linkedin.com/in/raulvila1/) y mi repositorio de [GitHub](https://github.com/rairaval) por mas infomación sobre mi carrera profesional.
+Pueden visitar mi perfil de [linkedin](https://www.linkedin.com/in/raulvila1/) y mi repositorio de [GitHub](https://github.com/rairaval) por mas infomación sobre mi carrera profesional.
 
 ### Experiencia Profesional
 
@@ -40,7 +40,7 @@ Cuento con experiencia en detección de fraude y desarrollo de negocio.
 
 #### Máster en Big Data & Data Science.     
 *[Univeridad Complutense de Madrid](https://www.nticmaster.es/). Madrid, España. 2019 | 2020*
-Reconocimiento: Mejor trabajo de Fin de Máster (presentación ante 3 Venture Capitals). 
+[Reconocimiento](https://www.linkedin.com/feed/update/urn:li:activity:6716298135032905728/): Mejor trabajo de Fin de Máster (presentación ante 3 Venture Capitals). 
 
 #### Licenciatura en Economía. 
 *[Universidad de la República](http://fcea.edu.uy/). Montevideo, Uruguay. 2017*

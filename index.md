@@ -47,7 +47,7 @@ Reconocimiento: Mejor trabajo de Fin de Máster (presentación ante 3 Venture Ca
 
 
 #### Bachiller en Economía.
-*[Instituto Crandon](https://www.linkedin.com/in/raulvila1/)*
+*[Instituto Crandon](https://www.crandon.edu.uy/)*
 
 ### Información adicional 
 - Curso: Entrepreneurship and Economy. UAB, Barcelona, España (2019).

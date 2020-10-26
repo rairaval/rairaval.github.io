@@ -45,6 +45,10 @@ Reconocimiento: Mejor trabajo de Fin de Máster (presentación ante 3 Venture Ca
 #### Licenciatura en Economía. 
 *Universidad de la República. Montevideo, Uruguay. 2017*
 
+
+#### Bachiller en Economía.
+*[Instituto Crandon]*(https://www.linkedin.com/in/raulvila1/)
+
 ### Información adicional 
 - Curso: Entrepreneurship and Economy. UAB, Barcelona, España (2019).
 - Curso: Development in Vietnam and cooperation in Asia. Foreign Trade University, Hanoi, Vietnam (2019).

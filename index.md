@@ -54,6 +54,6 @@ Cuento con experiencia en detección de fraude y desarrollo de negocio.
 - Curso: The Samurai Game, Coaching (2013). 
 - Pre-Gastrónomo Profesional, Instituto Crandon (2009).
 - Empresario del año. DESEM-Jóvenes emprendedores (2007).
-- Durante el año 2010 y parte del 2011 viví en la provincia de A Coruña, España. Donde trabajé como camarero y teleoperador, asi como tambien realice cursos de carretillero y manipulador de alimentos. 
+- Durante el año 2010 y parte del 2011 viví en la provincia de A Coruña, España. Donde trabajé como camarero y teleoperador, asi como también realice cursos de carretillero y manipulador de alimentos. 
 
 

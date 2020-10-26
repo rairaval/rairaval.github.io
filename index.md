@@ -9,7 +9,7 @@ Pueden visitar mi perfil de linkedin [Raúl Vila](https://www.linkedin.com/in/ra
 Cuento con experiencia en detección de fraude y desarrollo de negocio. 
 
 #### Analista de Precios. 2020 
-*Dufry. Madrid, España.*
+*[Dufry](https://www.dufry.com/en). Madrid, España.*
 - Establecer estrategia de precios y márgenes basados en la política de la empresa. 
 - Diseño y automatización de informes.
 - Participación en la actualización de la política de precios y análisis estratégico de KPI’s.
@@ -17,7 +17,7 @@ Cuento con experiencia en detección de fraude y desarrollo de negocio.
 
  
 #### Analista de Riesgo Fiscal y Fraude.  2017  |  2019 
-*Banco de Prevision Social. Montevideo, Uruguay.*
+*[Banco de Prevision Social](https://www.bps.gub.uy/10429/banco-de-prevision-social.html). Montevideo, Uruguay.*
 - Análisis del riesgo fiscal de la totalidad de empresas en el Uruguay.
 - Participación en proyecto del ajuste de predicción del riesgo.
 - Asesoría en la toma de decisión de entidades a fiscalizar.
@@ -39,11 +39,11 @@ Cuento con experiencia en detección de fraude y desarrollo de negocio.
 ### Formación Profesional
 
 #### Máster en Big Data & Data Science.     
-*Univeridad Complutense de Madrid, España. 2019 | 2020*
+*[Univeridad Complutense de Madrid](https://www.nticmaster.es/). Madrid, España. 2019 | 2020*
 Reconocimiento: Mejor trabajo de Fin de Máster (presentación ante 3 Venture Capitals). 
 
 #### Licenciatura en Economía. 
-*Universidad de la República. Montevideo, Uruguay. 2017*
+*[Universidad de la República](http://fcea.edu.uy/). Montevideo, Uruguay. 2017*
 
 
 #### Bachiller en Economía.

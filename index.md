@@ -40,7 +40,7 @@ Cuento con experiencia en detección de fraude y desarrollo de negocio.
 
 #### Máster en Big Data & Data Science.     
 *[Univeridad Complutense de Madrid](https://www.nticmaster.es/). Madrid, España. 2019 | 2020*
-[Reconocimiento](https://www.linkedin.com/feed/update/urn:li:activity:6716298135032905728/): Mejor trabajo de Fin de Máster (presentación ante 3 Venture Capitals). 
+[Reconocimiento](https://www.masterdatascienceucm.com/concurso-de-becas/): Mejor trabajo de Fin de Máster (presentación ante 3 Venture Capitals). 
 
 #### Licenciatura en Economía. 
 *[Universidad de la República](http://fcea.edu.uy/). Montevideo, Uruguay. 2017*

@@ -45,7 +45,7 @@ Cuento con experiencia en detección de fraude y desarrollo de negocio.
 #### Licenciatura en Economía. 
 *[Universidad de la República](http://fcea.edu.uy/). Montevideo, Uruguay. 2017*
 
-#### Bachiller en Economía.
+#### E.S.O. en Economía.
 *[Instituto Crandon](https://www.crandon.edu.uy/). Montevideo, Uruguay. 2009*
 
 ### Información adicional 

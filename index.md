@@ -8,7 +8,7 @@ Pueden visitar mi perfil de [linkedin](https://www.linkedin.com/in/raulvila1/) y
 
 Cuento con experiencia en detección de fraude y desarrollo de negocio. 
 
-#### Analista de Precios. 2020 
+#### Analista de Precios a nivel global. 2020 
 *[Dufry](https://www.dufry.com/en). Madrid, España.*
 - Establecer estrategia de precios y márgenes basados en la política de la empresa. 
 - Diseño y automatización de informes.
@@ -51,9 +51,55 @@ Cuento con experiencia en detección de fraude y desarrollo de negocio.
 ### Información adicional 
 - Curso: Entrepreneurship and Economy. UAB, Barcelona, España (2019).
 - Curso: Development in Vietnam and cooperation in Asia. Foreign Trade University, Hanoi, Vietnam (2019).
-- Curso: The Samurai Game, Coaching (2013). 
+- Curso: [The Samurai Game](https://saskiadewinter.com/samurai-game/)(2013).
 - Pre-Gastrónomo Profesional, Instituto Crandon (2009).
 - Empresario del año. DESEM-Jóvenes emprendedores (2007).
 - Durante el año 2010 y parte del 2011 viví en la provincia de A Coruña, España. Donde trabajé como camarero y teleoperador, asi como también realice cursos de carretillero y manipulador de alimentos. 
+
+## *English version below*
+
+## Resume | Raúl Vila 
+
+### Academic Background
+
+#### Master in Big Data & Data Science.
+*[Complutense University Of Madrid](https://www.nticmaster.es/). Madrid, España. 2019 | 2020*
+[Award](https://www.masterdatascienceucm.com/concurso-de-becas/): Best Final Master's Project (presentation to 3 Venture Capitals).
+
+#### Bachelor in Economics.
+[State University (UdelaR)](http://fcea.edu.uy/). Montevideo, Uruguay. 2017
+
+### Professional Experience
+
+Global Pricing Intelligence. 2020
+*[Dufry](https://www.dufry.com/en). Madrid, España.*
+ - Strategic analysis of KPI’s.
+ - Resolution of incidents at a global level.
+ - Establish pricing and margin strategy based on company policy.
+ - Reporting.
+ 
+Risk and Fraud Analyst. 2017 l 2019
+*[Social Security Bank.](https://www.bps.gub.uy/10429/banco-de-prevision-social.html). Montevideo, Uruguay.*
+ - Database management.
+ - Participation in risk prediction adjustment project.
+ - Advice on decision-making to managers of entities to be audited.
+ 
+Product Developer. 2017 l 2018
+Gv ccee. Montevideo, Uruguay.
+ - Negotiation of products budget 2 M. USD.
+ - Continuous analysis of business sustainability.
+ 
+Business Developer. 2014 l 2015
+Drf-Urupel. Montevideo, Uruguay.
+ - Analysis, detection and assessment of business opportunities.
+ - Development of client portfolio, includes cold call.
+
+
+### Courses and Certifications
+ - Businessman of the year. DESEM (2007).
+ - [Professional Gastronomer](https://gastronomia.crandon.edu.uy/), Crandon Institute (2009).
+ - Course: [The Samurai Game](https://saskiadewinter.com/samurai-game/)(2013).
+ - Course: Entrepreneurship and Economy. UAB, Barcelona, Spain (2019).
+ - Course: Development in Vietnam and cooperation in Asia. Foreign Trade University, Hanoi, Vietnam (2019).
 
 

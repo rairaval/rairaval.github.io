@@ -72,25 +72,25 @@ Cuento con experiencia en detección de fraude y desarrollo de negocio.
 
 ### Professional Experience
 
-Global Pricing Intelligence. 2020.
+#### Global Pricing Intelligence. 2020.
 *[Dufry](https://www.dufry.com/en). Madrid, España.*
  - Strategic analysis of KPI’s.
  - Resolution of incidents at a global level.
  - Establish pricing and margin strategy based on company policy.
  - Reporting.
  
-Risk and Fraud Analyst. 2017 | 2019.
+#### Risk and Fraud Analyst. 2017 | 2019.
 *[Social Security Bank.](https://www.bps.gub.uy/10429/banco-de-prevision-social.html). Montevideo, Uruguay.*
  - Database management.
  - Participation in risk prediction adjustment project.
  - Advice on decision-making to managers of entities to be audited.
  
-Product Developer. 2017 | 2018.
+#### Product Developer. 2017 | 2018.
 Gv ccee. Montevideo, Uruguay.
  - Negotiation of products budget 2 M. USD.
  - Continuous analysis of business sustainability.
  
-Business Developer. 2014 | 2015.
+#### Business Developer. 2014 | 2015.
 Drf-Urupel. Montevideo, Uruguay.
  - Analysis, detection and assessment of business opportunities.
  - Development of client portfolio, includes cold call.

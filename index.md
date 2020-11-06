@@ -39,7 +39,8 @@ Cuento con experiencia en detección de fraude y desarrollo de negocio.
 ### Formación Profesional
 
 #### Máster en Big Data & Data Science.     
-*[Universidad Complutense de Madrid](https://www.nticmaster.es/). Madrid, España. 2019 | 2020*
+*[Universidad Complutense de Madrid](https://www.nticmaster.es/). Madrid, España. 2019 | 2020*.
+
 [Reconocimiento](https://www.masterdatascienceucm.com/concurso-de-becas/): Mejor trabajo de Fin de Máster (presentación ante 3 Venture Capitals). 
 
 #### Licenciatura en Economía. 

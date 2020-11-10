@@ -4,6 +4,9 @@ Licenciado en economía y con un máster en Big Data & Data Science por la Unive
 
 Pueden visitar mi perfil de [linkedin](https://www.linkedin.com/in/raulvila1/) y mi repositorio de [GitHub](https://github.com/rairaval) por mas infomación sobre mi carrera profesional.
 
+Mail: raulvila21@gmail.com
+Móvil: (00 34) 609 876 057
+
 ### Experiencia Profesional
 
 Cuento con experiencia en detección de fraude y desarrollo de negocio. 
@@ -68,7 +71,7 @@ A dynamic, resourceful and can-do attitude professional who have experience with
 #### Master in Big Data & Data Science.
 *[Complutense University Of Madrid](https://www.nticmaster.es/). Madrid, España. 2019 | 2020*.
 
-[Award](https://www.masterdatascienceucm.com/concurso-de-becas/): Best Final Master's Project (presentation to 3 Venture Capitals).
+[Award](https://www.linkedin.com/feed/update/urn:li:activity:6725355997658968064/): Best Final Master's Project (presentation to 3 Venture Capitals).
 
 #### Bachelor in Economics.
 [State University (UdelaR)](http://fcea.edu.uy/). Montevideo, Uruguay. 2017

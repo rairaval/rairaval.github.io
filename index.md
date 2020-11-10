@@ -59,7 +59,7 @@ Cuento con experiencia en detección de fraude y desarrollo de negocio.
 
 ## *English version below*
 
-A dynamic, resourceful and can-do attitude professional who have experience with starts up and risk analysis. I am the kind of worker that thinks “Challenge accepted” when it comes to identifying problems and improvements based on the data collection. I consider myself a great listener, a creative thinker and with good comunication skills, and a team player too.
+A dynamic, resourceful and can-do attitude professional who have experience with starts up and risk analysis. I am the kind of worker that thinks “Challenge accepted” when it comes to identifying improvements based on data. I consider myself a great listener, a creative thinker and with good comunication skills. In my opinion being a team player is a key role to succeed in any workplace environment.
 
 ## Resume | Raúl Vila 
 

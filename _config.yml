@@ -1,1 +1,22 @@
-theme: jekyll-theme-slate
+# Site settings
+locale: "es-ES"
+title: "Raúl Vila, Data Scientist"
+description: Portafolio/Blog personal de proyectos de data science
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+
+# User settings
+username: Raúl Vila
+user_description: Soy Economista, con estudios en Administración de Empresas, y máster en Big Data y Data Science. Tengo experiencia en equipos multidisciplinarios centrados en el análisis de datos para diagnósticos, generación de conocimiento y toma de decisiones. Me motivan los desafíos profesionales que me permiten desarrollar mis habilidades y contibuir. Soy proactivo, resolutivo y autodidacta. Además, trabajo muy bien en equipos, tengo una gran capacidad de sintesis y analistica, me centro en lo importante, en lo trascendental. Me manejo muy bien en escenarios cambiantes y bajo presión.
+user_title: Data Scientist
+email: raulvila21@gmail.com
+twitter_username: raulvila21
+github_username:  rairaval
+gplus_username:  None
+
+# Google-analytics
+google-analytics:
+  id: "UA-162677242-1"
+
+exclude: ['package.json', 'src' , 'node_modules']

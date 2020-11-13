@@ -4,7 +4,7 @@ Licenciado en economía y con un máster en Big Data & Data Science por la Unive
 
 Pueden visitar mi perfil de [linkedin](https://www.linkedin.com/in/raulvila1/) y mi repositorio de [GitHub](https://github.com/rairaval) por mas infomación sobre mi carrera profesional.
 
-![Raul_Vila_photo](Raul Vila photo.jpeg)
+![Raul_Vila_photo](Raul_Vila_photo.jpeg)
 
 ##### Contacto
 
